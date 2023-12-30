@@ -1,0 +1,4 @@
+language: bash
+
+script:
+  - git pull origin main
